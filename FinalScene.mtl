@@ -40,6 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd leather.jpg
 
 newmtl Material.005
 Ns 96.078431
@@ -50,6 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd wood.jpg
 
 newmtl Material.006
 Ns 96.078431
@@ -60,6 +62,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd wall.jpg
 
 newmtl Material.008
 Ns 96.078431
@@ -70,16 +73,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-
-newmtl Material.009
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
+map_Kd leather2.jpg
 
 newmtl Material.010
 Ns 96.078431
@@ -90,6 +84,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd leather2.jpg
 
 newmtl Material.011
 Ns 96.078431
@@ -100,6 +95,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd leather2.jpg
 
 newmtl Material.012
 Ns 96.078431
@@ -110,6 +106,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd leather.jpg
 
 newmtl Material.013
 Ns 96.078431
@@ -131,6 +128,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd wood2.jpg
 
 newmtl Material.015
 Ns 96.078431
@@ -141,6 +139,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd marble2.jpg
 
 newmtl Material.016
 Ns 96.078431
@@ -151,6 +150,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd whitewall.jpg
 
 newmtl Material.021
 Ns 96.078431
@@ -201,6 +201,18 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd leather.jpg
+
+newmtl Tissue_leather.jpg
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd leather.jpg
 
 newmtl ground
 Ns 9.803922
